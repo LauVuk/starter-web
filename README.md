@@ -15,3 +15,5 @@ Adding purpose
 ## Deployment
 
 Stuff about deployment
+
+### Copyright
