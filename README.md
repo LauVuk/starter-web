@@ -12,6 +12,8 @@ Adding purpose
 
 ## How to Contribute
 
+More contribution stuff
+
 ## Deployment
 
 Stuff about deployment
