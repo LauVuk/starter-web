@@ -8,6 +8,10 @@ Another paragraph
 
 ## Purpose
 
+Adding purpose
+
 ## How to Contribute
 
 ## Deployment
+
+Stuff about deployment
