@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is simple website project
+This is simple website project. Adding a ling for rebasing example.
 
 ## Introduction
 
